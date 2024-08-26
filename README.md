@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=tomato&width=435&lines=Hey!+I+am+Amit+Maurya;A+Full+Stack+MERN+Developer;A+Debugger;)](https://git.io/typing-svg)
 </div>
 
+
+
 <h4>
   <i>Hii 👋 , I am Amit Maurya, a passionate MERN Developer, living in New Delhi, India. learning everyday with the curiosity to make myself better day by day.</i>
 </h4>
